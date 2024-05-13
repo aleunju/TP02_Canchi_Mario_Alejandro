@@ -1,0 +1,3 @@
+interface IDibujableCantidadVida{
+  void dibujarCantidadVida();
+}

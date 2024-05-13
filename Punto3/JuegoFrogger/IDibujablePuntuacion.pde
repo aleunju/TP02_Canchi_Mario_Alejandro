@@ -1,0 +1,3 @@
+interface IDibujablePuntuacion{
+  void dibujarPuntuacion();
+}

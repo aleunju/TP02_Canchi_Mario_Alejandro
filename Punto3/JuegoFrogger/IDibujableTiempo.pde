@@ -1,0 +1,3 @@
+interface IDibujableTiempo{
+  void dibujarTiempo();
+}

@@ -1,0 +1,3 @@
+interface IMovible{
+  void mover();
+}
